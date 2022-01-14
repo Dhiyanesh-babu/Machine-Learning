@@ -1,1 +1,1 @@
-The basic machine Learning projects are included here
+These are the few machine learning projects that I have done during my Learning period
